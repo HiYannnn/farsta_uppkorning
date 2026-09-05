@@ -1,0 +1,4 @@
+.map > .mapCanvas { height: 100%; }
+.map > .drawTools { height: auto; }
+.drawTools button.manualOn { background: #8a4dff; border-color: #c7afff; }
+.routebar button.deleteRoute { color: #ffb6bd; border-color: #9f4550; }
