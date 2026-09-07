@@ -25,3 +25,11 @@ nav button{font-size:.76rem;padding-inline:6px}
 .statsSource{color:var(--muted);font-size:.72rem;line-height:1.5;margin-top:14px}
 .statsSource a{color:var(--blue)}
 @media(max-width:520px){nav button{font-size:.66rem;gap:4px}.statCards{grid-template-columns:1fr}.statCards article{display:flex;justify-content:space-between;align-items:center}.statCards small{margin:0}.legend{display:grid;gap:7px}}
+.swedenMap{height:470px;border:1px solid #dfe7ed;border-radius:20px;overflow:hidden;background:#dfe7ed;box-shadow:0 8px 28px #071a2d14}
+.mapLegend{display:flex;flex-wrap:wrap;gap:13px;margin:10px 3px 18px;color:var(--muted);font-size:.72rem}
+.mapLegend span{display:flex;align-items:center;gap:6px}.mapLegend i{width:9px;height:9px;border-radius:50%}
+.mapLegend .low{background:#ef3f53}.mapLegend .mid{background:#f4a62a}.mapLegend .high{background:#14a36f}
+.nationalSummary{background:white;border:1px solid #dfe7ed;border-radius:17px;padding:15px 17px;display:flex;align-items:center;justify-content:space-between}
+.nationalSummary small,.nationalSummary b{display:block}.nationalSummary small{color:var(--muted);font-size:.72rem;margin-bottom:4px}.nationalSummary b{font-size:1rem}.nationalSummary strong{color:var(--blue);font-size:1.25rem}
+.farstaHeading{font-size:1.15rem;margin:22px 0 10px}
+@media(max-width:520px){.swedenMap{height:400px}.nationalSummary{align-items:end}}
