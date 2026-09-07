@@ -1,0 +1,510 @@
+{
+  "checked": "2026-09-07",
+  "source": "https://www.trafikverket.se/om-oss/kontakta-oss/vara-forarprovskontor/",
+  "locations": [
+    {
+      "id": 37668,
+      "name": "Arvidsjaur",
+      "address": "Järnvägsgatan 111 (Gielas Sporthall)",
+      "lat": 65.58263,
+      "lng": 19.19065,
+      "url": "https://www.trafikverket.se/om-oss/kontakta-oss/vara-forarprovskontor/arvidsjaur-teoriprov-korprov-bil-bil-med-slap-lastbil-buss/"
+    },
+    {
+      "id": 35823,
+      "name": "Bollnäs",
+      "address": "Myrgränd 1",
+      "lat": 61.339385,
+      "lng": 16.386947,
+      "url": "https://www.trafikverket.se/om-oss/kontakta-oss/vara-forarprovskontor/bollnas-teoriprov-korprov-bil/"
+    },
+    {
+      "id": 10803,
+      "name": "Borås",
+      "address": " Nils Jakobsonsgatan 5A (Pulsen)",
+      "lat": 57.716521,
+      "lng": 12.934407,
+      "url": "https://www.trafikverket.se/om-oss/kontakta-oss/vara-forarprovskontor/boras-teoriprov-korprov-bil-taxi/"
+    },
+    {
+      "id": 10100,
+      "name": "Eskilstuna",
+      "address": "Fraktgatan 6, längst ner i vändzonen, infarten till höger.",
+      "lat": 59.387583,
+      "lng": 16.495025,
+      "url": "https://www.trafikverket.se/om-oss/kontakta-oss/vara-forarprovskontor/eskilstuna-teoriprov-korprov-bil-taxi/"
+    },
+    {
+      "id": 37047,
+      "name": "Fagersta",
+      "address": "Järnvägstorget 3",
+      "lat": 59.990373,
+      "lng": 15.816431,
+      "url": "https://www.trafikverket.se/om-oss/kontakta-oss/vara-forarprovskontor/fagersta-teoriprov-korprov-bil-bil-med-slap/"
+    },
+    {
+      "id": 21902,
+      "name": "Falkenberg",
+      "address": "Oktanvägen 5",
+      "lat": 56.90863,
+      "lng": 12.46217,
+      "url": "https://www.trafikverket.se/om-oss/kontakta-oss/vara-forarprovskontor/falkenberg-teoriprov-korprov-bil-bil-med-slap/"
+    },
+    {
+      "id": 3735,
+      "name": "Falun",
+      "address": "Yxhammargatan 1",
+      "lat": 60.605807,
+      "lng": 15.622491,
+      "url": "https://www.trafikverket.se/om-oss/kontakta-oss/vara-forarprovskontor/falun-teoriprov-korprov-bil-taxi/"
+    },
+    {
+      "id": 37796,
+      "name": "Gällivare",
+      "address": "Lasarettsgatan 22",
+      "lat": 67.132497,
+      "lng": 20.665759,
+      "url": "https://www.trafikverket.se/om-oss/kontakta-oss/vara-forarprovskontor/gallivare-teoriprov-korprov-bil-taxi/"
+    },
+    {
+      "id": 906,
+      "name": "Gävle",
+      "address": "Redargatan 18",
+      "lat": 60.682426,
+      "lng": 17.165744,
+      "url": "https://www.trafikverket.se/om-oss/kontakta-oss/vara-forarprovskontor/gavle--teoriprov-korprov-bil-taxi/"
+    },
+    {
+      "id": 10811,
+      "name": "Göteborg Hisingen",
+      "address": "Hildedalsgatan 2",
+      "lat": 57.732499,
+      "lng": 11.944164,
+      "url": "https://www.trafikverket.se/om-oss/kontakta-oss/vara-forarprovskontor/goteborg-hisingen-teoriprov-korprov-bil/"
+    },
+    {
+      "id": 10821,
+      "name": "Göteborg Högsbo",
+      "address": "F O Petersons gata 24",
+      "lat": 57.649628,
+      "lng": 11.936318,
+      "url": "https://www.trafikverket.se/om-oss/kontakta-oss/vara-forarprovskontor/goteborg-hogsbo-teoriprov-korprov-bil/"
+    },
+    {
+      "id": 162052,
+      "name": "Göteborg Partille",
+      "address": "Göteborgsvägen 84\n433 63 Sävedalen",
+      "lat": 57.73308,
+      "lng": 12.075174,
+      "url": "https://www.trafikverket.se/om-oss/kontakta-oss/vara-forarprovskontor/goteborg-ost/"
+    },
+    {
+      "id": 6831,
+      "name": "Halmstad",
+      "address": "Andersbergsringen 104",
+      "lat": 56.657866,
+      "lng": 12.898018,
+      "url": "https://www.trafikverket.se/om-oss/kontakta-oss/vara-forarprovskontor/halmstad-teoriprov-korprov-bil-taxi/"
+    },
+    {
+      "id": 37875,
+      "name": "Haparanda",
+      "address": "Norrmalmsvägen 2B",
+      "lat": 65.839516,
+      "lng": 24.126713,
+      "url": "https://www.trafikverket.se/om-oss/kontakta-oss/vara-forarprovskontor/haparanda-teoriprov-korprov-bil/"
+    },
+    {
+      "id": 8147,
+      "name": "Helsingborg",
+      "address": "Rundgången 32",
+      "lat": 56.064306,
+      "lng": 12.709065,
+      "url": "https://www.trafikverket.se/om-oss/kontakta-oss/vara-forarprovskontor/helsingborg-teoriprov-korprov-mc-bil-taxi/"
+    },
+    {
+      "id": 35911,
+      "name": "Hudiksvall",
+      "address": "Mickelsvägen 5",
+      "lat": 61.740985,
+      "lng": 17.088386,
+      "url": "https://www.trafikverket.se/om-oss/kontakta-oss/vara-forarprovskontor/hudiksvall-teori-korprov-bil-bil-med-slap-lastbil/"
+    },
+    {
+      "id": 37936,
+      "name": "Jokkmokk",
+      "address": "Lappstavägen 9",
+      "lat": 66.602071,
+      "lng": 19.843501,
+      "url": "https://www.trafikverket.se/om-oss/kontakta-oss/vara-forarprovskontor/jokkmokk-teoriprov-korprov-bil/"
+    },
+    {
+      "id": 7067,
+      "name": "Jönköping",
+      "address": "Bataljonsgatan 8",
+      "lat": 57.773352,
+      "lng": 14.208862,
+      "url": "https://www.trafikverket.se/om-oss/kontakta-oss/vara-forarprovskontor/jonkoping-teoriprov-korprov-bil-taxi/"
+    },
+    {
+      "id": 37958,
+      "name": "Kalix",
+      "address": "Strandgatan 21",
+      "lat": 65.855642,
+      "lng": 23.143257,
+      "url": "https://www.trafikverket.se/om-oss/kontakta-oss/vara-forarprovskontor/kalix-teoriprov-korprov-bil/"
+    },
+    {
+      "id": 7115,
+      "name": "Kalmar",
+      "address": "Karlstorpsvägen 16",
+      "lat": 56.677735,
+      "lng": 16.326509,
+      "url": "https://www.trafikverket.se/om-oss/kontakta-oss/vara-forarprovskontor/kalmar-teoriprov-korprov-bil-taxi/"
+    },
+    {
+      "id": 6456,
+      "name": "Karlskrona",
+      "address": "Blåportsgatan 7",
+      "lat": 56.175491,
+      "lng": 15.597138,
+      "url": "https://www.trafikverket.se/om-oss/kontakta-oss/vara-forarprovskontor/karlskrona-teoriprov-korprov-bil-bil-med-slap-lastbil-buss-taxi/"
+    },
+    {
+      "id": 10212,
+      "name": "Karlstad",
+      "address": "Körkarlsvägen 5",
+      "lat": 59.379252,
+      "lng": 13.433008,
+      "url": "https://www.trafikverket.se/om-oss/kontakta-oss/vara-forarprovskontor/karlstad-teoriprov-korprov-bil-taxi/"
+    },
+    {
+      "id": 37986,
+      "name": "Kiruna",
+      "address": "Malmvägen 1B, Nya centrum",
+      "lat": 67.848021,
+      "lng": 20.301879,
+      "url": "https://www.trafikverket.se/om-oss/kontakta-oss/vara-forarprovskontor/kiruna-teoriprov-korprov-bil/"
+    },
+    {
+      "id": 8154,
+      "name": "Kristianstad",
+      "address": "Björkhemsvägen 13",
+      "lat": 56.02881,
+      "lng": 14.179862,
+      "url": "https://www.trafikverket.se/om-oss/kontakta-oss/vara-forarprovskontor/kristianstad-teoriprov-korprov-bil-taxi/"
+    },
+    {
+      "id": 86449,
+      "name": "Köping",
+      "address": "Sjötullsvägen 3",
+      "lat": 59.505761,
+      "lng": 15.995448,
+      "url": "https://www.trafikverket.se/om-oss/kontakta-oss/vara-forarprovskontor/koping-teoriprov-bil-med-slap-lastbil-buss/"
+    },
+    {
+      "id": 18115,
+      "name": "Lidköping",
+      "address": "Sockerbruksgatan 1, entré E (ingång från framsidan av Sockerbruket)",
+      "lat": 58.504635,
+      "lng": 13.165527,
+      "url": "https://www.trafikverket.se/om-oss/kontakta-oss/vara-forarprovskontor/lidkoping-teoriprov-korprov-bil-bil-med-slap/"
+    },
+    {
+      "id": 10894,
+      "name": "Linköping",
+      "address": "Gelbgjutaregatan 2D",
+      "lat": 58.406069,
+      "lng": 15.649902,
+      "url": "https://www.trafikverket.se/om-oss/kontakta-oss/vara-forarprovskontor/linkoping-teoriprov-korprov-bil-taxi/"
+    },
+    {
+      "id": 38747,
+      "name": "Ljungby",
+      "address": "Stationsgatan 2 (Garvaren, markplan)",
+      "lat": 56.83201,
+      "lng": 13.93257,
+      "url": "https://www.trafikverket.se/om-oss/kontakta-oss/vara-forarprovskontor/ljungby-teoriprov-korprov-bil/"
+    },
+    {
+      "id": 8135,
+      "name": "Luleå",
+      "address": "Sundsbacken 4",
+      "lat": 65.58821,
+      "lng": 22.165354,
+      "url": "https://www.trafikverket.se/om-oss/kontakta-oss/vara-forarprovskontor/lulea-teoriprov-korprov-bil-taxi/"
+    },
+    {
+      "id": 38889,
+      "name": "Lycksele",
+      "address": "Storgatan 28 1tr",
+      "lat": 64.594904,
+      "lng": 18.677122,
+      "url": "https://www.trafikverket.se/om-oss/kontakta-oss/vara-forarprovskontor/lycksele-teoriprov-korprov-bil/"
+    },
+    {
+      "id": 8209,
+      "name": "Malmö",
+      "address": "Cederströmsgatan 1",
+      "lat": 55.597446,
+      "lng": 13.061536,
+      "url": "https://www.trafikverket.se/om-oss/kontakta-oss/vara-forarprovskontor/malmo-teoriprov-korprov-bil-taxi/"
+    },
+    {
+      "id": 119988,
+      "name": "Mariestad",
+      "address": "Drottninggatan 1, Södra Entrén",
+      "lat": 58.704992,
+      "lng": 13.828902,
+      "url": "https://www.trafikverket.se/om-oss/kontakta-oss/vara-forarprovskontor/mariestad-teoriprov-korprov-bil/"
+    },
+    {
+      "id": 10934,
+      "name": "Norrköping",
+      "address": "Sprängstensgatan 1",
+      "lat": 58.570474,
+      "lng": 16.181171,
+      "url": "https://www.trafikverket.se/om-oss/kontakta-oss/vara-forarprovskontor/norrkoping-teoriprov-korprov-bil-taxi/"
+    },
+    {
+      "id": 16499,
+      "name": "Nyköping",
+      "address": "Tvålgränd 7",
+      "lat": 58.754402,
+      "lng": 16.99382,
+      "url": "https://www.trafikverket.se/om-oss/kontakta-oss/vara-forarprovskontor/nykoping-teoriprov-korprov-bil-bil-med-slap-lastbil-buss-taxi/"
+    },
+    {
+      "id": 38228,
+      "name": "Oskarshamn",
+      "address": "Gyllings väg 9",
+      "lat": 57.252233,
+      "lng": 16.438252,
+      "url": "https://www.trafikverket.se/om-oss/kontakta-oss/vara-forarprovskontor/oskarshamn-teoriprov-korprov-bil-bil-med-slap-lastbil-buss/"
+    },
+    {
+      "id": 38041,
+      "name": "Pajala",
+      "address": "Soukolovägen 8",
+      "lat": 67.210984,
+      "lng": 23.36361,
+      "url": "https://www.trafikverket.se/om-oss/kontakta-oss/vara-forarprovskontor/pajala-teoriprov-korprov-bil-bil-med-slap/"
+    },
+    {
+      "id": 38068,
+      "name": "Piteå",
+      "address": "Olof Palmes gata 6A",
+      "lat": 65.320506,
+      "lng": 21.487323,
+      "url": "https://www.trafikverket.se/om-oss/kontakta-oss/vara-forarprovskontor/pitea-teoriprov-korprov-bil/"
+    },
+    {
+      "id": 10254,
+      "name": "Skellefteå",
+      "address": "Södra Järnvägsgatan 49B",
+      "lat": 64.752859,
+      "lng": 20.957915,
+      "url": "https://www.trafikverket.se/om-oss/kontakta-oss/vara-forarprovskontor/skelleftea-teoriprov-korprov-bil-bil-med-slap-buss-lastbil-taxi/"
+    },
+    {
+      "id": 10839,
+      "name": "Skövde",
+      "address": "Ventilvägen 12, 549 37  Skövde",
+      "lat": 58.398618,
+      "lng": 13.872893,
+      "url": "https://www.trafikverket.se/om-oss/kontakta-oss/vara-forarprovskontor/skovde-teoriprov-korprov-bil-taxi/"
+    },
+    {
+      "id": 31350,
+      "name": "Sollefteå",
+      "address": "Järnvägsgatan 18, Majoren",
+      "lat": 63.168907,
+      "lng": 17.260191,
+      "url": "https://www.trafikverket.se/om-oss/kontakta-oss/vara-forarprovskontor/solleftea-teoriprov-korprov-bil-bil-med-slap-lastbil/"
+    },
+    {
+      "id": 8512,
+      "name": "Stockholm Farsta",
+      "address": "Fryksdalsbacken 20",
+      "lat": 59.237424,
+      "lng": 18.112761,
+      "url": "https://www.trafikverket.se/om-oss/kontakta-oss/vara-forarprovskontor/stockholm-farsta-korprov-bil-taxi/"
+    },
+    {
+      "id": 8579,
+      "name": "Stockholm Järfälla",
+      "address": "Datavägen 6",
+      "lat": 59.413225,
+      "lng": 17.825061,
+      "url": "https://www.trafikverket.se/om-oss/kontakta-oss/vara-forarprovskontor/stockholm-jarfalla-teoriprov-korprov-bil-taxi/"
+    },
+    {
+      "id": 8592,
+      "name": "Stockholm Södertälje",
+      "address": "Svalängsvägen 4",
+      "lat": 59.174956,
+      "lng": 17.648601,
+      "url": "https://www.trafikverket.se/om-oss/kontakta-oss/vara-forarprovskontor/stockholm-sodertalje-teoriprov-korprov-bil-taxi/"
+    },
+    {
+      "id": 116886,
+      "name": "Stockholm Upplands Väsby",
+      "address": "Johanneslundsvägen 2",
+      "lat": 59.504329,
+      "lng": 17.919668,
+      "url": "https://www.trafikverket.se/om-oss/kontakta-oss/vara-forarprovskontor/upplands-vasby/"
+    },
+    {
+      "id": 10551,
+      "name": "Sundsvall",
+      "address": "Heffners allé 51",
+      "lat": 62.394597,
+      "lng": 17.334549,
+      "url": "https://www.trafikverket.se/om-oss/kontakta-oss/vara-forarprovskontor/sundsvall-teoriprov-korprov-bil-taxi/"
+    },
+    {
+      "id": 38950,
+      "name": "Sunne",
+      "address": "Järnvägsgatan 8",
+      "lat": 59.833669,
+      "lng": 13.14815,
+      "url": "https://www.trafikverket.se/om-oss/kontakta-oss/vara-forarprovskontor/sunne-teoriprov-korprov-bil/"
+    },
+    {
+      "id": 30386,
+      "name": "Sveg",
+      "address": "Ljusnegatan 1",
+      "lat": 62.032859,
+      "lng": 14.365504,
+      "url": "https://www.trafikverket.se/om-oss/kontakta-oss/vara-forarprovskontor/sveg-teoriprov-korprov-bil-bil-med-slap/"
+    },
+    {
+      "id": 10285,
+      "name": "Umeå",
+      "address": "Storgatan 60 C",
+      "lat": 63.822546,
+      "lng": 20.275031,
+      "url": "https://www.trafikverket.se/om-oss/kontakta-oss/vara-forarprovskontor/umea-teoriprov-korprov-bil-taxi/"
+    },
+    {
+      "id": 10127,
+      "name": "Uppsala",
+      "address": "Hållnäsgatan 8A",
+      "lat": 59.879574,
+      "lng": 17.588186,
+      "url": "https://www.trafikverket.se/om-oss/kontakta-oss/vara-forarprovskontor/uppsala-teoriprov-korprov-bil-bil-med-slap-lastbil-buss/"
+    },
+    {
+      "id": 21953,
+      "name": "Varberg",
+      "address": "Härdgatan 23",
+      "lat": 57.12082,
+      "lng": 12.289451,
+      "url": "https://www.trafikverket.se/om-oss/kontakta-oss/vara-forarprovskontor/varberg-teoriprov-korprov-bil/"
+    },
+    {
+      "id": 29105,
+      "name": "Vetlanda",
+      "address": "Fabriksgatan 1A",
+      "lat": 57.423044,
+      "lng": 15.08442,
+      "url": "https://www.trafikverket.se/om-oss/kontakta-oss/vara-forarprovskontor/vetlanda-teoriprov-korprov-bil-bil-med-slap/"
+    },
+    {
+      "id": 38909,
+      "name": "Vilhelmina",
+      "address": "Volgsjövägen 36",
+      "lat": 64.62489,
+      "lng": 16.654346,
+      "url": "https://www.trafikverket.se/om-oss/kontakta-oss/vara-forarprovskontor/vilhelmina-teoriprov-korprov-bil-bil-med-slap/"
+    },
+    {
+      "id": 684,
+      "name": "Visby",
+      "address": "Broväg 10",
+      "lat": 57.644975,
+      "lng": 18.313635,
+      "url": "https://www.trafikverket.se/om-oss/kontakta-oss/vara-forarprovskontor/visby-teoriprov-korprov-mc-bil-bil-med-slap-lastbil-buss-taxi/"
+    },
+    {
+      "id": 81055,
+      "name": "Vänersborg",
+      "address": "Stampgatan 14, våning 2",
+      "lat": 58.339143,
+      "lng": 12.240631,
+      "url": "https://www.trafikverket.se/om-oss/kontakta-oss/vara-forarprovskontor/vanersborg-teoriprov-korprov-bil-taxi/"
+    },
+    {
+      "id": 29162,
+      "name": "Värnamo",
+      "address": "Myntgatan 11A",
+      "lat": 57.184915,
+      "lng": 14.039591,
+      "url": "https://www.trafikverket.se/om-oss/kontakta-oss/vara-forarprovskontor/varnamo-teoriprov-korprov-bil/"
+    },
+    {
+      "id": 38259,
+      "name": "Västervik",
+      "address": "Kristinebergsgatan 20",
+      "lat": 57.762166,
+      "lng": 16.613268,
+      "url": "https://www.trafikverket.se/om-oss/kontakta-oss/vara-forarprovskontor/vastervik-teoriprov-korprov-bil/"
+    },
+    {
+      "id": 10774,
+      "name": "Västerås",
+      "address": "Gasverksgatan 7A",
+      "lat": 59.610295,
+      "lng": 16.565456,
+      "url": "https://www.trafikverket.se/om-oss/kontakta-oss/vara-forarprovskontor/vasteras-teoriprov-korprov-bil-taxi/"
+    },
+    {
+      "id": 8110,
+      "name": "Växjö",
+      "address": "Honnörsgatan 26",
+      "lat": 56.878282,
+      "lng": 14.77777,
+      "url": "https://www.trafikverket.se/om-oss/kontakta-oss/vara-forarprovskontor/vaxjo-teoriprov-korprov-bil-taxi/"
+    },
+    {
+      "id": 15286,
+      "name": "Ängelholm",
+      "address": "Brandsvigsgatan 6",
+      "lat": 56.2535,
+      "lng": 12.905807,
+      "url": "https://www.trafikverket.se/om-oss/kontakta-oss/vara-forarprovskontor/angelholm-teoriprov-korprov-bil/"
+    },
+    {
+      "id": 10870,
+      "name": "Örebro",
+      "address": "Bettorpsgatan 10",
+      "lat": 59.301265,
+      "lng": 15.230812,
+      "url": "https://www.trafikverket.se/om-oss/kontakta-oss/vara-forarprovskontor/orebro-teoriprov-korprov-bil-taxi/"
+    },
+    {
+      "id": 31392,
+      "name": "Örnsköldsvik",
+      "address": "Järvedsleden 4B",
+      "lat": 63.283453,
+      "lng": 18.735888,
+      "url": "https://www.trafikverket.se/om-oss/kontakta-oss/vara-forarprovskontor/ornskoldsvik-teoriprov-korprov-bil-taxi/"
+    },
+    {
+      "id": 7013,
+      "name": "Östersund",
+      "address": " Armégränd 3",
+      "lat": 63.185153,
+      "lng": 14.645151,
+      "url": "https://www.trafikverket.se/om-oss/kontakta-oss/vara-forarprovskontor/ostersund-teoriprov-korprov-bil/"
+    },
+    {
+      "id": 38147,
+      "name": "Övertorneå",
+      "address": "Industrivägen 3",
+      "lat": 66.383091,
+      "lng": 23.648289,
+      "url": "https://www.trafikverket.se/om-oss/kontakta-oss/vara-forarprovskontor/overtornea-teoriprov-korprov-bil-bil-med-slap/"
+    }
+  ]
+}
