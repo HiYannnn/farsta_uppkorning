@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 import "./draw.css";
 import "./bugfix.css";
+import "./statistics.css";
 
 export const metadata: Metadata = {
   title: "DrivePath – Farsta Practice Routes",

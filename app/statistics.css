@@ -1,0 +1,27 @@
+nav{grid-template-columns:repeat(3,1fr)}
+nav button{font-size:.76rem;padding-inline:6px}
+.statistics{padding:22px 17px 40px}
+.statistics .sectionTitle{align-items:center;margin-bottom:6px}
+.yearBadge{background:#dfeaff;color:#155bc9;border-radius:999px;padding:7px 11px;font-size:.75rem;font-weight:800}
+.statsIntro{color:var(--muted);font-size:.86rem;line-height:1.5;margin-bottom:18px}
+.statCards{display:grid;grid-template-columns:repeat(3,1fr);gap:9px}
+.statCards article{background:white;border:1px solid #dfe7ed;border-radius:17px;padding:15px 12px;box-shadow:0 5px 18px #071a2d0d}
+.statCards small,.passCard small{display:block;color:var(--muted);font-size:.72rem;font-weight:750;margin-bottom:8px}
+.statCards b{font-size:1.35rem;letter-spacing:-.04em}
+.statCards .passed{border-top:4px solid #14a36f}
+.statCards .failed{border-top:4px solid var(--red)}
+.passCard{background:var(--navy);color:white;border-radius:20px;padding:19px;margin-top:12px}
+.rateHeadline{display:flex;align-items:end;justify-content:space-between}
+.rateHeadline strong{display:block;font-size:2.3rem;letter-spacing:-.06em}
+.rateHeadline>span{color:#a9bfd1;font-size:.75rem;margin-bottom:5px}
+.rateBar{height:14px;background:#ef3f53;border-radius:999px;overflow:hidden;margin:17px 0 12px}
+.rateBar i{display:block;height:100%;background:#31c887;border-radius:999px}
+.legend{display:flex;justify-content:space-between;color:#dce8f0;font-size:.72rem}
+.legend span{display:flex;align-items:center;gap:6px}
+.legend i{width:8px;height:8px;border-radius:50%}
+.passDot{background:#31c887}.failDot{background:#ef3f53}
+.statsNote{background:#e7f0ff;color:#264a73;border-radius:15px;padding:15px;margin-top:12px}
+.statsNote b{font-size:.86rem}.statsNote p{font-size:.8rem;line-height:1.5;margin-top:5px}
+.statsSource{color:var(--muted);font-size:.72rem;line-height:1.5;margin-top:14px}
+.statsSource a{color:var(--blue)}
+@media(max-width:520px){nav button{font-size:.66rem;gap:4px}.statCards{grid-template-columns:1fr}.statCards article{display:flex;justify-content:space-between;align-items:center}.statCards small{margin:0}.legend{display:grid;gap:7px}}
