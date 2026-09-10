@@ -1,23 +1,51 @@
-# Farsta Uppkörning
+# Farsta Uppkörning 🍀
 
-Independent Next.js version of DrivePath for recording, recreating and sharing
-private-practice driving routes around Farsta.
+A little helper for anyone practising driving in Farsta.
 
-## Local setup
+The idea is simple: keep track of the roads you’ve practised, revisit the parts you find tricky, and share useful routes with other learners. Hopefully it makes preparing for your driving test a little easier.
 
-1. Create a free Supabase project.
-2. Open **SQL Editor** and run `supabase/schema.sql`.
-3. Copy `.env.example` to `.env.local` and add your Supabase URL, anon key,
-   and Trafikverket API key.
-4. Run `npm install`.
-5. Run `npm run dev`, then open http://localhost:3000.
+**Lycka till med uppkörningen!**
 
-## Deploy to Vercel
+## What you can do
 
-Push this repository to GitHub, import it into Vercel, and add the same three
-environment variables in Vercel Project Settings. Vercel will build the project
-with `npm run build`.
+- Record a route with GPS, import a GPX file, or draw a route from memory or screenshots.
+- Save routes in your browser and export them as GPX files.
+- Share practice routes with other learners.
+- Look up driving-test offices and the available pass-rate statistics.
+- Open Trafikverket’s NVDB map to check speed limits and other road information.
+- Switch between English and Swedish.
 
-Public routes are readable and insertable through Supabase Row Level Security.
-Updates and deletes are disabled from the public API. Use Supabase Table Editor
-for moderation until owner authentication is added.
+These are practice routes, not official test routes. The app isn’t affiliated with Trafikverket, and a route here won’t tell you where your examiner will take you.
+
+The statistics cover reported areas, not necessarily individual offices. The office directory may also miss smaller test sites. Sources and dates are shown in the app.
+
+## Run it locally
+
+You’ll need Node.js and npm.
+
+```sh
+npm install
+npm run dev
+```
+
+Open [localhost:3000](http://localhost:3000).
+
+You can use local route storage without setting up a database. Saved routes stay in the browser you used; clearing its data can remove them, so export anything you want to keep.
+
+### Optional services
+
+For the shared route library:
+
+1. Create a Supabase project.
+2. Run `supabase/schema.sql` in its SQL editor.
+3. Copy `.env.example` to `.env.local` and fill in `NEXT_PUBLIC_SUPABASE_URL` and `SUPABASE_ANON_KEY`.
+
+For the speed-limit overlay, also add `TRAFIKVERKET_API_KEY`. The NVDB website link works without a key.
+
+Keep `.env.local` out of Git. Publishing a route shares its start and end too, so avoid sharing a route that starts at your home. Public routes currently have no owner accounts; moderation is done through Supabase.
+
+## A small project
+
+Built with Next.js, React and Leaflet, using OpenStreetMap tiles and OSRM for routing along roads.
+
+Found something wrong or have an idea? Open an issue. Suggestions from people practising around Farsta are welcome.
