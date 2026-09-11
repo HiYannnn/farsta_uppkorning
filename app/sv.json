@@ -138,5 +138,6 @@
   "Delete “{name}”? This cannot be undone.": "Ta bort ”{name}”? Detta går inte att ångra.",
   "Farsta practice {count}": "Övningskörning Farsta {count}",
   "Recreated route {count}": "Återskapad rutt {count}",
-  "{passed}% passed and {failed}% failed": "{passed} % godkända och {failed} % underkända"
+  "{passed}% passed and {failed}% failed": "{passed} % godkända och {failed} % underkända",
+  "Already published": "Redan publicerad"
 }

@@ -7,7 +7,7 @@ type Stat={name:string;lat:number;lng:number;tests:number;passed:number;failed:n
 const escapeHtml=(value:string)=>value.replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]!));
 export default function StatisticsMap({stats}:{stats:Stat[]}){
  const {t,locale}=useLanguage();
- const [view,setView]=useState<"offices"|"statistics">("offices"),[query,setQuery]=useState("");
+ const [view,setView]=useState<"offices"|"statistics">("statistics"),[query,setQuery]=useState("");
  const mapNode=useRef<HTMLDivElement>(null);
  const offices=directory.locations.filter(o=>`${o.name} ${o.address}`.toLocaleLowerCase().includes(query.toLocaleLowerCase().trim()));
  useEffect(()=>{
