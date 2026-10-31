@@ -139,5 +139,12 @@
   "Farsta practice {count}": "Övningskörning Farsta {count}",
   "Recreated route {count}": "Återskapad rutt {count}",
   "{passed}% passed and {failed}% failed": "{passed} % godkända och {failed} % underkända",
-  "Already published": "Redan publicerad"
+  "Already published": "Redan publicerad",
+  "Map {number}": "Karta {number}",
+  "Explore the six practice maps": "Utforska de sex övningskartorna",
+  "Choose a map to explore the routes and places marked for practice.": "Välj en karta för att utforska rutter och platser markerade för övning.",
+  "Choose a practice map": "Välj en övningskarta",
+  "Open {map} in Google My Maps": "Öppna {map} i Google My Maps",
+  "If the map does not appear, open it in Google My Maps using the link above.": "Om kartan inte visas, öppna den i Google My Maps via länken ovan.",
+  "Open in Google Maps": "Öppna i Google Maps"
 }
