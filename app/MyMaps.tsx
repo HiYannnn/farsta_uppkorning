@@ -17,9 +17,9 @@ export default function MyMaps(){
  const [active,setActive]=useState(0);
  const label=t("Map {number}",{number:active+1});
  return <section className="myMaps" aria-labelledby="my-maps-title">
-  <p className="eyebrow">GOOGLE MY MAPS</p>
-  <h2 id="my-maps-title">{t("Explore the six practice maps")}</h2>
-  <p className="myMapsIntro">{t("Choose a map to explore the routes and places marked for practice.")}</p>
+  <p className="eyebrow">{t("MY DRIVING TEST EXPERIENCES")}</p>
+  <h2 id="my-maps-title">{t("Maps from my driving tests")}</h2>
+  <p className="myMapsIntro">{t("I made these six maps from driving tests I didn’t pass. I’m sharing them to help others practise in Farsta. These are my past experiences—your test route may be different.")}</p>
   <div className="myMapsSelector" role="group" aria-label={t("Choose a practice map")}>
    {mapIds.map((id,index)=><button key={id} type="button" aria-pressed={active===index} aria-controls="practice-map-viewer" onClick={()=>setActive(index)}>{t("Map {number}",{number:index+1})}</button>)}
   </div>
